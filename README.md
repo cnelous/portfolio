@@ -9,11 +9,6 @@ A simple interactive birthday greeting card built with HTML and CSS.
 - [View Code](https://github.com/cnelous/GreetingCard)
 - [Live Demo](Add your live link here)
 
-### To-Do List
-A styled to-do list with sub-items.
-- [View Code](https://github.com/cnelous/ToDoList)
-- [Live Demo](Add your live link here)
-
 ## Skills
 - HTML
 - CSS (Learning)
