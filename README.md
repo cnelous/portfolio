@@ -12,7 +12,7 @@ A simple interactive birthday greeting card built with HTML and CSS.
 ### Parent Teacher Conference Form
 A clean and responsive Parent-Teacher Conference scheduling form built with HTML and CSS.
 - [View Code](https://github.com/cnelous/parent-teacher-conference-form)
-- https://cnelous.github.io/parent-teacher-conference-form/)
+- https://cnelous.github.io/parent-teacher-conference-form/
 ## Skills
 - HTML
 - CSS (Learning)
