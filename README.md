@@ -7,7 +7,7 @@ Hi, I'm Cee — an aspiring full-stack developer learning web development.
 ### Greeting Card
 A simple interactive birthday greeting card built with HTML and CSS.
 - [View Code](https://github.com/cnelous/GreetingCard)
-- [Live Demo](Add your live link here)
+- https://cnelous.github.io/GreetingCard/
 
 ## Skills
 - HTML
