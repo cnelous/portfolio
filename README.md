@@ -1,30 +1,24 @@
 # Cee's Portfolio
 
-A personal portfolio website built while learning web development.
-
-## About Me
-
-I'm Cee (Cornelous Gardner), an aspiring Full-Stack Developer currently training and building my skills through freeCodeCamp and self-study.
-
-## Current Focus
-- Mastering HTML and CSS
-- Building responsive and clean web pages
-- Preparing to learn JavaScript and modern frameworks
+Hi, I'm Cee — an aspiring full-stack developer learning web development.
 
 ## Projects
-- **Business Card** - A simple, styled business card layout
-- **CSS Practice Site** - Testing various CSS techniques and designs
 
-## Technologies Used
-- HTML5
-- CSS3
+### Greeting Card
+A simple interactive birthday greeting card built with HTML and CSS.
+- [View Code](https://github.com/cnelous/GreetingCard)
+- [Live Demo](Add your live link here)
 
-## Goals
-- Complete freeCodeCamp Responsive Web Design Certification
-- Learn JavaScript and build dynamic applications
-- Become a professional Full-Stack Developer
+### To-Do List
+A styled to-do list with sub-items.
+- [View Code](https://github.com/cnelous/ToDoList)
+- [Live Demo](Add your live link here)
 
----
+## Skills
+- HTML
+- CSS (Learning)
+- JavaScript (Learning)
 
-**Currently Training**  
-Last updated: June 2026
+## Contact
+- GitHub: [cnelous](https://github.com/cnelous)
+- Email: cornelousg@gmail.com
